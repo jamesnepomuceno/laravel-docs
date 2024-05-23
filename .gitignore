@@ -1,0 +1,2 @@
+*.env
+/cap01/example-app/*.env
